@@ -1,0 +1,15 @@
+.styling-selection{
+    float: right;
+}
+
+.styling-selection a{
+    color: white !important;
+}
+
+.styling-link{
+    margin-left: 30px !important;
+}
+
+.active-grid-link{
+    color: aqua !important;
+}

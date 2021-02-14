@@ -1,0 +1,70 @@
+.tbl-repos{
+    padding: 0 30px;
+    margin-top: 60px;
+}
+
+.tbl-git-repos thead tr{
+    height: 20px;
+    background-color: #01579b;
+    color: #fff;
+}
+
+.tbl-git-repos tr th{
+    text-align: left;
+    align-items: left;
+    font-size: 0.9em;
+    border-right: solid 1px #ccc;
+    cursor: pointer;
+}
+
+.tbl-git-repos td{
+    text-align: left;
+    align-items: left;
+    font-size: 0.9em;
+}
+
+.tbl-git-repos th i{
+    float: right;
+}
+
+.no-cursor{
+    cursor: unset !important;
+}
+
+.img-repo-owner{
+    width: 36px;
+    height: 36px;
+    border-radius: 25px;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+.img-delete-repo{
+    color: red;
+    cursor: pointer;
+}
+
+.txt-search{
+    width: 300px !important;
+    margin: 15px 0;
+    float: left;
+}
+
+/* .span-repo-count{
+    margin-top: 20px;
+    align-items: left;
+    float: right;
+    display: inline;
+}
+
+.ddl-repo-count{
+    width: 100px !important;
+    margin-left: 10px;
+    display: inline !important;
+} */
+
+.no-records{
+    font-size: 0.9em;
+    align-items: left;
+    margin-top: 20px;
+}
